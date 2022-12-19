@@ -35,8 +35,8 @@
 
 ## Authors
 
-[Roman Sokol](https://github.com/sokolroman)
-[Aaron King](https://github.com/Aaronpqking)
+[Roman Sokol](https://github.com/sokolroman) //
+[Aaron King](https://github.com/Aaronpqking) //
 [Hector Perez](https://github.com/noviceprogrammeroh)
 
 Thank you for choosing our e-commerce website for your book-buying needs. We hope you have a great experience!
