@@ -1,5 +1,7 @@
 # The-Book-Hub
 
+The E-Commerce Book Store is an online platform built using React, GraphQL, Node.js, Express.js, MongoDB, and the Mongoose ODM, which allows users to browse and purchase books from a variety of genres. It will be deployed using Heroku, have a polished and responsive UI, be interactive, include authentication using JWT, and protect sensitive API key information on the server. Its repository will adhere to high-quality coding standards and include a comprehensive README.
+
 ## Technologies Used
 
 - React for the front end
