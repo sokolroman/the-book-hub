@@ -44,3 +44,36 @@ The E-Commerce Book Store is an online platform built using React, GraphQL, Node
 Thank you for choosing our e-commerce website for your book-buying needs. We hope you have a great experience!
 
 #test commit
+
+.
+└── The-Book-Hub/
+    ├── client/
+    │   ├── build
+    │   ├── public
+    │   ├── src/
+    │   │   ├── __tests__
+    │   │   ├── components
+    │   │   ├── pages
+    │   │   ├── utils
+    │   │   ├── App.js
+    │   │   ├── App.css
+    │   │   ├── index.js
+    │   │   └── serviceWorker.js
+    │   ├── node_modules
+    │   ├── .gitignore
+    │   └── package-lock.json
+    ├── server/
+    │   ├── config/
+    │   │   └── connections.js
+    │   ├── models
+    │   ├── schemas
+    │   ├── seeders
+    │   ├── utils
+    │   ├── .gitignore
+    │   ├── package-lock.json
+    │   ├── package.json
+    │   ├── server.js
+    │   └── .gitignore
+    ├── package-lock.json
+    ├── package.json
+    └── README.md
