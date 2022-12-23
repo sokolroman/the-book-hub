@@ -77,3 +77,37 @@ Thank you for choosing our e-commerce website for your book-buying needs. We hop
     ├── package-lock.json
     ├── package.json
     └── README.md
+
+
+    Back-End
+    server/
+├── config/
+│   └── connection.js
+├── controllers/
+│   ├── books.js
+│   ├── orders.js
+│   ├── payments.js
+│   ├── users.js
+│   └── index.js
+├── models/
+│   ├── book.js
+│   ├── order.js
+│   ├── payment.js
+│   ├── user.js
+│   └── index.js
+├── seeders/
+│   ├── books.js
+│   ├── orders.js
+│   ├── payments.js
+│   ├── seed.js
+│   └── users.js
+├── utils/
+│   ├── index.js
+│   ├── payment.js
+│   ├── seed.js
+│   └── user.js
+├── .gitignore
+├── package-lock.json
+├── package.json
+├── server.js
+└── .gitignore
